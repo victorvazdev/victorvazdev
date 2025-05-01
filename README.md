@@ -17,7 +17,7 @@ Bem-vindo ao meu portfólio! Sou Victor Vaz, estudante de Sistemas de Informaç�
 - Interface intuitiva, responsiva e com tema customizado.
 - Integração com API de dados (GitHub Gists).
 
-### 🔹 [Cinetopia 🎬](https://github.com/victorvazdev/cinetopia)
+### 🔹 [Cinetopia 🎬](https://github.com/victorvazdev/flutter_cinetopia)
 > Aplicativo para pesquisa de filmes populares e lançamentos, com base na [TMDB API](https://www.themoviedb.org/).
 - Busca por filmes em tempo real.
 - Interface moderna com componentes reutilizáveis.
