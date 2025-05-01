@@ -48,7 +48,6 @@ Bem-vindo ao meu portfólio! Sou Victor Vaz, estudante de Sistemas de Informaç�
 - 🌐 Website: [victorvaz.dev](https://victorvaz.dev)
 - 📧 E-mail: contato@victorvaz.dev
 - 🧑‍💼 LinkedIn: [linkedin.com/in/victorvazdev](https://www.linkedin.com/in/victorvazdev)
-- 💻 GitHub: [github.com/victorvazdev](https://github.com/victorvazdev)
 
 ---
 
