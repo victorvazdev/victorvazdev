@@ -1,7 +1,7 @@
 
 # 👨‍💻 Victor Vaz — Desenvolvedor Flutter
 
-Bem-vindo ao meu portfólio público de projetos Flutter! Sou Victor Vaz, estudante de Sistemas de Informação e apaixonado por desenvolvimento mobile e web. Aqui você encontrará uma coleção dos meus principais projetos desenvolvidos com **Flutter** e **Dart**, focados em usabilidade, boas práticas, padrões arquiteturais e design moderno. Também possuo **conhecimentos básicos em Swift e SwiftUI**, o que me permite expandir soluções para iOS de forma nativa quando necessário.
+Bem-vindo ao meu portfólio! Sou Victor Vaz, estudante de Sistemas de Informação e apaixonado por desenvolvimento mobile e web. Aqui você encontrará uma coleção dos meus principais projetos desenvolvidos com **Flutter** e **Dart**, focados em usabilidade, boas práticas, padrões arquiteturais e design moderno. Também possuo **conhecimentos básicos em Swift e SwiftUI**, o que me permite expandir soluções para iOS de forma nativa quando necessário.
 
 ---
 
