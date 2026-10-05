@@ -21,6 +21,25 @@ Sou desenvolvedor de software e estou na reta final da **Pós-graduação Lato S
 
 Gosto de código limpo, arquitetura bem pensada, documentação clara e projetos que rodam fácil (de preferência com um `docker run` ou um `brew install`).
 
+## 🌱 Ruraliza: líder de equipe
+
+<p>
+  <a href="https://github.com/Ruraliza"><img src="https://img.shields.io/badge/GitHub-Ruraliza-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organização Ruraliza no GitHub"></a>
+  <a href="https://ruraliza.github.io/ruraliza-frontend/"><img src="https://img.shields.io/badge/Acessar_o_site-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site do Ruraliza"></a>
+  <img src="https://img.shields.io/badge/status-em_desenvolvimento-F9A825?style=for-the-badge" alt="Em desenvolvimento">
+</p>
+
+> *"Mão de obra no campo, na hora certa."*
+
+Lidero a equipe da **[Ruraliza](https://github.com/Ruraliza)**, uma plataforma que conecta produtores rurais a trabalhadores, prestadores de serviço e estudantes para atividades no campo, como colheita, plantio, pulverização, operação de máquinas e manejo de animais. O produtor publica o serviço, avalia os candidatos, acompanha o andamento e libera o pagamento pelo app.
+
+| Repositório | Stack |
+|---|---|
+| [ruraliza-frontend](https://github.com/Ruraliza/ruraliza-frontend) | Angular (standalone, signals, SSR) · TypeScript · GitHub Actions |
+| [ruraliza-backend](https://github.com/Ruraliza/ruraliza-backend) | Node.js · Express 5 · TypeScript · OpenAPI · Sharp · arquitetura MVC com injeção de dependências e Repository Pattern |
+
+> 🚧 O projeto ainda está em desenvolvimento e a documentação dos repositórios está sendo concluída.
+
 ## Destaque: ttsync no Homebrew 🍺
 
 **[terminal-theme-sync](https://github.com/victorvazdev/terminal-theme-sync)** sincroniza automaticamente o perfil do Terminal.app do macOS com o modo claro/escuro do sistema. Escrito em Zsh + AppleScript, leve e sem dependências, e só age dentro do Terminal nativo (ignora VS Code, Cursor, Xcode, iTerm2 etc.).
