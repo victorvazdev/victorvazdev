@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Victor Vaz 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software</b> · Goiás, Brasil<br>
+  <b>Engenheiro de Software</b> · Goiás, Brasil<br>
   Mobile · Web · Back-end · Automação de terminal
 </p>
 
